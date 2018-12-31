@@ -1,0 +1,11 @@
+#can {
+    /*width: 90vw;*/
+    /*height: 90vh;*/
+    background-color: black;
+}
+
+body {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 5vh;
+}
